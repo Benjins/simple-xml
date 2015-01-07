@@ -1,0 +1,8 @@
+<Scene name='my-engine'>
+<Texture name='testTex' source='Test.bmp'/>
+<Material name='God1' shader='shader' texture='testTex'/>
+<Mesh name='myMesh' source='Test.obj'/>
+<GameObject mat='God1' mesh='myMesh'>
+<Transform position='0,3,0' rotation='1,0,0,0' size='1,1,1'/>
+</GameObject>
+</Scene>
