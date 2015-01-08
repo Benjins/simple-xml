@@ -1,0 +1,2 @@
+<Texture name='testTex' source='Test.bmp'/>
+<Material name='God1' shader='shader' texture='testTex'/>
