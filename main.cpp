@@ -178,9 +178,7 @@ XMLDocument ParseTokens(vector<string> tokens){
 			if(tokenStack.Top() == "<"){
 				//Add the element to the doc
 				XMLElement elem = elementStack.Pop();
-				//cout << "Popping element: " << elem.name << endl;
 				if(elementStack.count == 0){
-					//cout << "Adding element: " << elem.name << endl;
 					doc.contents.push_back(elem);
 				}
 				else{
@@ -219,18 +217,14 @@ XMLDocument ParseTokens(vector<string> tokens){
 				currToken = tokenStack.Pop();
 			}
 
-			XMLElement elem = elementStack.Pop();
-			//cout << "Pop element " << elem.name << endl;
-			if(elementStack.count == 0){
-				//doc.contents.push_back(elem);
-			}
-			else{
-				elementStack.Top().children.push_back(elem);
-			}
-
-			if(startList){
-				//cout << "Push element " << elem.name << endl;
-				elementStack.Push(elem);
+			if(!startList){
+				XMLElement elem = elementStack.Pop();
+				if(elementStack.count == 0){
+					doc.contents.push_back(elem);
+				}
+				else{
+					elementStack.Top().children.push_back(elem);
+				}
 			}
 		}
 		else{
