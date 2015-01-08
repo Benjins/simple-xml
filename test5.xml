@@ -1,0 +1,615 @@
+<project version="4">
+<component name="ChangeListManager">
+<list default="true" id="ae241df2-0eeb-4db1-bb4c-d59e75f1db6b" name="Default" comment="" />
+<ignored path="OOD_PS07.iws" />
+<ignored path=".idea/workspace.xml" />
+<option name="TRACKING_ENABLED" value="true" />
+<option name="SHOW_DIALOG" value="false" />
+<option name="HIGHLIGHT_CONFLICTS" value="true" />
+<option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+<option name="LAST_RESOLUTION" value="IGNORE" />
+</component>
+<component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+<component name="CreatePatchCommitExecutor">
+<option name="PATCH_PATH" value="" />
+</component>
+<component name="DaemonCodeAnalyzer">
+<disable_hints />
+</component>
+<component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+<component name="FavoritesManager">
+<favorites_list name="OOD_PS07" />
+</component>
+<component name="FileEditorManager">
+<leaf>
+<file leaf-file-name="RasterApplication.java" pinned="false" current="false" current-in-tab="false">
+<entry file="file://$PROJECT_DIR$/src/RasterApplication.java">
+<provider selected="true" editor-type-id="text-editor">
+<state vertical-scroll-proportion="0.0" vertical-offset="342" max-vertical-offset="1071">
+<caret line="50" column="36" selection-start-line="50" selection-start-column="36" selection-end-line="50" selection-end-column="36" />
+<folding />
+</state>
+</provider>
+</entry>
+</file>
+<file leaf-file-name="ArrayRaster.java" pinned="false" current="false" current-in-tab="false">
+<entry file="file://$PROJECT_DIR$/src/ArrayRaster.java">
+<provider selected="true" editor-type-id="text-editor">
+<state vertical-scroll-proportion="0.0" vertical-offset="696" max-vertical-offset="1751">
+<caret line="88" column="0" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+<folding />
+</state>
+</provider>
+</entry>
+</file>
+<file leaf-file-name="MyDemo.java" pinned="false" current="false" current-in-tab="false">
+<entry file="file://$PROJECT_DIR$/src/MyDemo.java">
+<provider selected="true" editor-type-id="text-editor">
+<state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
+<caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+<folding />
+</state>
+</provider>
+</entry>
+</file>
+<file leaf-file-name="CirclesDemo.java" pinned="false" current="false" current-in-tab="false">
+<entry file="file://$PROJECT_DIR$/src/CirclesDemo.java">
+<provider selected="true" editor-type-id="text-editor">
+<state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="782">
+<caret line="22" column="95" selection-start-line="21" selection-start-column="11" selection-end-line="22" selection-end-column="95" />
+<folding />
+</state>
+</provider>
+</entry>
+</file>
+<file leaf-file-name="Sampleables.java" pinned="false" current="true" current-in-tab="true">
+<entry file="file://$PROJECT_DIR$/src/Sampleables.java">
+<provider selected="true" editor-type-id="text-editor">
+<state vertical-scroll-proportion="-0.6828859" vertical-offset="2260" max-vertical-offset="2856">
+<caret line="109" column="28" selection-start-line="109" selection-start-column="28" selection-end-line="109" selection-end-column="28" />
+<folding>
+<element signature="e#2918#2919#0" expanded="true" />
+<element signature="e#2996#2997#0" expanded="true" />
+<element signature="e#3836#3837#0" expanded="true" />
+<element signature="e#3910#3911#0" expanded="true" />
+<element signature="e#4827#4828#0" expanded="true" />
+<element signature="e#4894#4895#0" expanded="true" />
+</folding>
+</state>
+</provider>
+</entry>
+</file>
+<file leaf-file-name="Color.java" pinned="false" current="false" current-in-tab="false">
+<entry file="file://$PROJECT_DIR$/src/Color.java">
+<provider selected="true" editor-type-id="text-editor">
+<state vertical-scroll-proportion="0.0" vertical-offset="2328" max-vertical-offset="2924">
+<caret line="121" column="8" selection-start-line="121" selection-start-column="8" selection-end-line="121" selection-end-column="8" />
+<folding />
+</state>
+</provider>
+</entry>
+</file>
+<file leaf-file-name="Sampleable.java" pinned="false" current="false" current-in-tab="false">
+<entry file="file://$PROJECT_DIR$/src/Sampleable.java">
+<provider selected="true" editor-type-id="text-editor">
+<state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+<caret line="4" column="23" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="27" />
+<folding />
+</state>
+</provider>
+</entry>
+</file>
+<file leaf-file-name="SampleablesTest.java" pinned="false" current="false" current-in-tab="false">
+<entry file="file://$PROJECT_DIR$/src/SampleablesTest.java">
+<provider selected="true" editor-type-id="text-editor">
+<state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="799">
+<caret line="35" column="64" selection-start-line="35" selection-start-column="64" selection-end-line="35" selection-end-column="64" />
+<folding />
+</state>
+</provider>
+</entry>
+</file>
+<file leaf-file-name="Sampler.java" pinned="false" current="false" current-in-tab="false">
+<entry file="file://$PROJECT_DIR$/src/Sampler.java">
+<provider selected="true" editor-type-id="text-editor">
+<state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
+<caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+<folding />
+</state>
+</provider>
+</entry>
+</file>
+<file leaf-file-name="SimpleSampler.java" pinned="false" current="false" current-in-tab="false">
+<entry file="file://$PROJECT_DIR$/src/SimpleSampler.java">
+<provider selected="true" editor-type-id="text-editor">
+<state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+<caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+<folding />
+</state>
+</provider>
+</entry>
+</file>
+</leaf>
+</component>
+<component name="FindManager">
+<FindUsagesManager>
+<setting name="OPEN_NEW_TAB" value="true" />
+</FindUsagesManager>
+</component>
+<component name="IdeDocumentHistory">
+<option name="changedFiles">
+<list>
+<option value="$PROJECT_DIR$/src/ArrayRasterTest.java" />
+<option value="$PROJECT_DIR$/src/RasterApplication.java" />
+<option value="$PROJECT_DIR$/src/CirclesDemo.java" />
+<option value="$PROJECT_DIR$/src/ArrayRaster.java" />
+<option value="$PROJECT_DIR$/src/SampleablesTest.java" />
+<option value="$PROJECT_DIR$/src/Sampleables.java" />
+</list>
+</option>
+</component>
+<component name="ProjectFrameBounds">
+<option name="x" value="-9" />
+<option name="y" value="-9" />
+<option name="width" value="1938" />
+<option name="height" value="1050" />
+</component>
+<component name="ProjectLevelVcsManager" settingsEditedManually="false">
+<OptionsSetting value="true" id="Add" />
+<OptionsSetting value="true" id="Remove" />
+<OptionsSetting value="true" id="Checkout" />
+<OptionsSetting value="true" id="Update" />
+<OptionsSetting value="true" id="Status" />
+<OptionsSetting value="true" id="Edit" />
+<OptionsSetting value="true" id="Undo Check Out" />
+<OptionsSetting value="true" id="Get Latest Version" />
+<ConfirmationsSetting value="0" id="Add" />
+<ConfirmationsSetting value="0" id="Remove" />
+</component>
+<component name="ProjectReloadState">
+<option name="STATE" value="0" />
+</component>
+<component name="ProjectView">
+<navigator currentView="ProjectPane" proportions="" version="1">
+<flattenPackages />
+<showMembers />
+<showModules />
+<showLibraryContents />
+<hideEmptyPackages />
+<abbreviatePackageNames />
+<autoscrollToSource />
+<autoscrollFromSource />
+<sortByType />
+</navigator>
+<panes>
+<pane id="Scope" />
+<pane id="PackagesPane" />
+<pane id="ProjectPane">
+<subPane>
+<PATH>
+<PATH_ELEMENT>
+<option name="myItemId" value="OOD_PS07" />
+<option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+</PATH_ELEMENT>
+</PATH>
+<PATH>
+<PATH_ELEMENT>
+<option name="myItemId" value="OOD_PS07" />
+<option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+</PATH_ELEMENT>
+<PATH_ELEMENT>
+<option name="myItemId" value="OOD_PS07" />
+<option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+</PATH_ELEMENT>
+</PATH>
+<PATH>
+<PATH_ELEMENT>
+<option name="myItemId" value="OOD_PS07" />
+<option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+</PATH_ELEMENT>
+<PATH_ELEMENT>
+<option name="myItemId" value="OOD_PS07" />
+<option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+</PATH_ELEMENT>
+<PATH_ELEMENT>
+<option name="myItemId" value="src" />
+<option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+</PATH_ELEMENT>
+</PATH>
+</subPane>
+</pane>
+</panes>
+</component>
+<component name="PropertiesComponent">
+<property name="GoToClass.includeLibraries" value="false" />
+<property name="GoToClass.toSaveIncludeLibraries" value="false" />
+<property name="GoToFile.includeJavaFiles" value="false" />
+<property name="MemberChooser.sorted" value="false" />
+<property name="MemberChooser.showClasses" value="true" />
+<property name="MemberChooser.copyJavadoc" value="false" />
+<property name="options.lastSelected" value="reference.projectsettings.compiler.javacompiler" />
+<property name="options.splitter.main.proportions" value="0.3" />
+<property name="options.splitter.details.proportions" value="0.2" />
+<property name="options.searchVisible" value="true" />
+<property name="project.structure.last.edited" value="Libraries" />
+<property name="project.structure.proportion" value="0.15" />
+<property name="project.structure.side.proportion" value="0.2" />
+<property name="last_opened_file_path" value="$PROJECT_DIR$/pset07.jar!/" />
+<property name="OverrideImplement.combined" value="true" />
+<property name="OverrideImplement.overriding.sorted" value="false" />
+<property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+<property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
+<property name="recentsLimit" value="5" />
+<property name="dynamic.classpath" value="false" />
+<property name="restartRequiresConfirmation" value="true" />
+</component>
+<component name="RecentsManager">
+<key name="CreateTestDialog.Recents.Supers">
+<recent name="" />
+</key>
+<key name="CreateTestDialog.RecentsKey">
+<recent name="" />
+</key>
+</component>
+<component name="RunManager" selected="JUnit.All in OOD_PS07">
+<configuration default="false" name="ArrayRasterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+<module name="OOD_PS07" />
+<option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+<option name="ALTERNATIVE_JRE_PATH" value="" />
+<option name="PACKAGE_NAME" value="" />
+<option name="MAIN_CLASS_NAME" value="ArrayRasterTest" />
+<option name="METHOD_NAME" value="" />
+<option name="TEST_OBJECT" value="class" />
+<option name="VM_PARAMETERS" value="-ea" />
+<option name="PARAMETERS" value="" />
+<option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+<option name="ENV_VARIABLES" />
+<option name="PASS_PARENT_ENVS" value="true" />
+<option name="TEST_SEARCH_SCOPE">
+<value defaultName="moduleWithDependencies" />
+</option>
+<envs />
+<patterns />
+<RunnerSettings RunnerId="Run" />
+<ConfigurationWrapper RunnerId="Run" />
+<method />
+</configuration>
+<configuration default="false" name="CirclesDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+<option name="MAIN_CLASS_NAME" value="CirclesDemo" />
+<option name="VM_PARAMETERS" value="" />
+<option name="PROGRAM_PARAMETERS" value="" />
+<option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+<option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+<option name="ALTERNATIVE_JRE_PATH" value="" />
+<option name="ENABLE_SWING_INSPECTOR" value="false" />
+<option name="ENV_VARIABLES" />
+<option name="PASS_PARENT_ENVS" value="true" />
+<module name="OOD_PS07" />
+<envs />
+<RunnerSettings RunnerId="Run" />
+<ConfigurationWrapper RunnerId="Run" />
+<method />
+</configuration>
+<configuration default="false" name="SampleablesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+<module name="OOD_PS07" />
+<option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+<option name="ALTERNATIVE_JRE_PATH" />
+<option name="PACKAGE_NAME" value="" />
+<option name="MAIN_CLASS_NAME" value="SampleablesTest" />
+<option name="METHOD_NAME" />
+<option name="TEST_OBJECT" value="class" />
+<option name="VM_PARAMETERS" value="-ea" />
+<option name="PARAMETERS" />
+<option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+<option name="ENV_VARIABLES" />
+<option name="PASS_PARENT_ENVS" value="true" />
+<option name="TEST_SEARCH_SCOPE">
+<value defaultName="moduleWithDependencies" />
+</option>
+<envs />
+<patterns />
+<RunnerSettings RunnerId="Run" />
+<ConfigurationWrapper RunnerId="Run" />
+<method />
+</configuration>
+<configuration default="false" name="All in OOD_PS07" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+<module name="OOD_PS07" />
+<option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+<option name="ALTERNATIVE_JRE_PATH" />
+<option name="PACKAGE_NAME" value="" />
+<option name="MAIN_CLASS_NAME" />
+<option name="METHOD_NAME" />
+<option name="TEST_OBJECT" value="package" />
+<option name="VM_PARAMETERS" value="-ea" />
+<option name="PARAMETERS" />
+<option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+<option name="ENV_VARIABLES" />
+<option name="PASS_PARENT_ENVS" value="true" />
+<option name="TEST_SEARCH_SCOPE">
+<value defaultName="moduleWithDependencies" />
+</option>
+<envs />
+<patterns />
+<RunnerSettings RunnerId="Run" />
+<ConfigurationWrapper RunnerId="Run" />
+<method />
+</configuration>
+<configuration default="true" type="Remote" factoryName="Remote">
+<option name="USE_SOCKET_TRANSPORT" value="true" />
+<option name="SERVER_MODE" value="false" />
+<option name="SHMEM_ADDRESS" value="javadebug" />
+<option name="HOST" value="localhost" />
+<option name="PORT" value="5005" />
+<method />
+</configuration>
+<configuration default="true" type="Applet" factoryName="Applet">
+<module name="" />
+<option name="MAIN_CLASS_NAME" />
+<option name="HTML_FILE_NAME" />
+<option name="HTML_USED" value="false" />
+<option name="WIDTH" value="400" />
+<option name="HEIGHT" value="300" />
+<option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+<option name="VM_PARAMETERS" />
+<option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+<option name="ALTERNATIVE_JRE_PATH" />
+<method />
+</configuration>
+<configuration default="true" type="Application" factoryName="Application">
+<option name="MAIN_CLASS_NAME" value="CirclesDemo" />
+<option name="VM_PARAMETERS" value="" />
+<option name="PROGRAM_PARAMETERS" value="" />
+<option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+<option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+<option name="ALTERNATIVE_JRE_PATH" value="" />
+<option name="ENABLE_SWING_INSPECTOR" value="false" />
+<option name="ENV_VARIABLES" />
+<option name="PASS_PARENT_ENVS" value="true" />
+<module name="" />
+<envs />
+<method />
+</configuration>
+<configuration default="true" type="JUnit" factoryName="JUnit">
+<module name="" />
+<option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+<option name="ALTERNATIVE_JRE_PATH" />
+<option name="PACKAGE_NAME" />
+<option name="MAIN_CLASS_NAME" />
+<option name="METHOD_NAME" />
+<option name="TEST_OBJECT" value="class" />
+<option name="VM_PARAMETERS" value="-ea" />
+<option name="PARAMETERS" />
+<option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+<option name="ENV_VARIABLES" />
+<option name="PASS_PARENT_ENVS" value="true" />
+<option name="TEST_SEARCH_SCOPE">
+<value defaultName="moduleWithDependencies" />
+</option>
+<envs />
+<patterns />
+<method />
+</configuration>
+<list size="4">
+<item index="0" class="java.lang.String" itemvalue="JUnit.ArrayRasterTest" />
+<item index="1" class="java.lang.String" itemvalue="Application.CirclesDemo" />
+<item index="2" class="java.lang.String" itemvalue="JUnit.SampleablesTest" />
+<item index="3" class="java.lang.String" itemvalue="JUnit.All in OOD_PS07" />
+</list>
+<recent_temporary>
+<list size="4">
+<item index="0" class="java.lang.String" itemvalue="JUnit.All in OOD_PS07" />
+<item index="1" class="java.lang.String" itemvalue="JUnit.SampleablesTest" />
+<item index="2" class="java.lang.String" itemvalue="Application.CirclesDemo" />
+<item index="3" class="java.lang.String" itemvalue="JUnit.ArrayRasterTest" />
+</list>
+</recent_temporary>
+<configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+<option name="MAIN_CLASS_NAME" />
+<option name="VM_PARAMETERS" value="-ea" />
+<option name="PARAMETERS" />
+<option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+</configuration>
+<configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+<option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+</configuration>
+<configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+</configuration>
+</component>
+<component name="ShelveChangesManager" show_recycled="false" />
+<component name="ToolWindowManager">
+<frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+<editor active="true" />
+<layout>
+<window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+<window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+<window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32938644" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+<window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+<window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2981701" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+<window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+<window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+<window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+<window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+<window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+<window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+<window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+<window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3035522" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+<window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+<window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+<window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+<window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+<window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+<window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+</layout>
+</component>
+<component name="Vcs.Log.UiProperties">
+<option name="RECENTLY_FILTERED_USER_GROUPS">
+<collection />
+</option>
+<option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+<collection />
+</option>
+</component>
+<component name="VcsContentAnnotationSettings">
+<option name="myLimit" value="2678400000" />
+</component>
+<component name="VcsManagerConfiguration">
+<option name="myTodoPanelSettings">
+<TodoPanelSettings />
+</option>
+</component>
+<component name="XDebuggerManager">
+<breakpoint-manager>
+<option name="time" value="1" />
+</breakpoint-manager>
+</component>
+<component name="editorHistoryManager">
+<entry file="file://$PROJECT_DIR$/src/AbstractRaster.java">
+<provider selected="true" editor-type-id="text-editor">
+<state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="1139">
+<caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+<folding />
+</state>
+</provider>
+</entry>
+<entry file="file://$PROJECT_DIR$/src/ListRaster.java">
+<provider selected="true" editor-type-id="text-editor">
+<state vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="1309">
+<caret line="44" column="33" selection-start-line="44" selection-start-column="33" selection-end-line="44" selection-end-column="33" />
+<folding />
+</state>
+</provider>
+</entry>
+<entry file="file://$PROJECT_DIR$/src/ArrayRasterTest.java">
+<provider selected="true" editor-type-id="text-editor">
+<state vertical-scroll-proportion="0.0" vertical-offset="1110" max-vertical-offset="1870">
+<caret line="89" column="9" selection-start-line="89" selection-start-column="9" selection-end-line="89" selection-end-column="9" />
+<folding>
+<element signature="imports" expanded="true" />
+<element signature="e#272#273#0" expanded="true" />
+<element signature="e#326#327#0" expanded="true" />
+<element signature="e#449#450#0" expanded="true" />
+<element signature="e#503#504#0" expanded="true" />
+<element signature="e#626#627#0" expanded="true" />
+<element signature="e#692#693#0" expanded="true" />
+<element signature="e#815#816#0" expanded="true" />
+<element signature="e#881#882#0" expanded="true" />
+</folding>
+</state>
+</provider>
+</entry>
+<entry file="file://$PROJECT_DIR$/src/Raster.java">
+<provider selected="true" editor-type-id="text-editor">
+<state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1156">
+<caret line="55" column="2" selection-start-line="55" selection-start-column="2" selection-end-line="61" selection-end-column="3" />
+<folding />
+</state>
+</provider>
+</entry>
+<entry file="file://$PROJECT_DIR$/src/SimpleSampler.java">
+<provider selected="true" editor-type-id="text-editor">
+<state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+<caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+<folding />
+</state>
+</provider>
+</entry>
+<entry file="file://$PROJECT_DIR$/src/Color.java">
+<provider selected="true" editor-type-id="text-editor">
+<state vertical-scroll-proportion="0.0" vertical-offset="2328" max-vertical-offset="2924">
+<caret line="121" column="8" selection-start-line="121" selection-start-column="8" selection-end-line="121" selection-end-column="8" />
+<folding />
+</state>
+</provider>
+</entry>
+<entry file="file://$PROJECT_DIR$/src/MyDemo.java">
+<provider selected="true" editor-type-id="text-editor">
+<state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="187">
+<caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+<folding />
+</state>
+</provider>
+</entry>
+<entry file="file://$PROJECT_DIR$/src/Sampler.java">
+<provider selected="true" editor-type-id="text-editor">
+<state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
+<caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+<folding />
+</state>
+</provider>
+</entry>
+<entry file="file://$PROJECT_DIR$/src/CirclesDemo.java">
+<provider selected="true" editor-type-id="text-editor">
+<state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="782">
+<caret line="22" column="95" selection-start-line="21" selection-start-column="11" selection-end-line="22" selection-end-column="95" />
+<folding />
+</state>
+</provider>
+</entry>
+<entry file="file://$PROJECT_DIR$/src/RasterApplication.java">
+<provider selected="true" editor-type-id="text-editor">
+<state vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="1071">
+<caret line="50" column="36" selection-start-line="50" selection-start-column="36" selection-end-line="50" selection-end-column="36" />
+<folding />
+</state>
+</provider>
+</entry>
+<entry file="file://$PROJECT_DIR$/src/ArrayRaster.java">
+<provider selected="true" editor-type-id="text-editor">
+<state vertical-scroll-proportion="0.0" vertical-offset="696" max-vertical-offset="1751">
+<caret line="88" column="0" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+<folding />
+</state>
+</provider>
+</entry>
+<entry file="file://$PROJECT_DIR$/src/SampleablesTest.java">
+<provider selected="true" editor-type-id="text-editor">
+<state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="799">
+<caret line="35" column="64" selection-start-line="35" selection-start-column="64" selection-end-line="35" selection-end-column="64" />
+<folding />
+</state>
+</provider>
+</entry>
+<entry file="file://$PROJECT_DIR$/src/Sampleable.java">
+<provider selected="true" editor-type-id="text-editor">
+<state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+<caret line="4" column="23" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="27" />
+<folding />
+</state>
+</provider>
+</entry>
+<entry file="file://$PROJECT_DIR$/src/Sampleables.java">
+<provider selected="true" editor-type-id="text-editor">
+<state vertical-scroll-proportion="-0.6828859" vertical-offset="2260" max-vertical-offset="2856">
+<caret line="109" column="28" selection-start-line="109" selection-start-column="28" selection-end-line="109" selection-end-column="28" />
+<folding>
+<element signature="e#2918#2919#0" expanded="true" />
+<element signature="e#2996#2997#0" expanded="true" />
+<element signature="e#3836#3837#0" expanded="true" />
+<element signature="e#3910#3911#0" expanded="true" />
+<element signature="e#4827#4828#0" expanded="true" />
+<element signature="e#4894#4895#0" expanded="true" />
+</folding>
+</state>
+</provider>
+</entry>
+</component>
+<component name="masterDetails">
+<states>
+<state key="ProjectLibrariesConfigurable.UI">
+<settings>
+<last-edited>
+<plaintext val='pset07'/>
+</last-edited>
+<splitter-proportions>
+<option name="proportions">
+<list>
+<option value="0.2" />
+</list>
+</option>
+</splitter-proportions>
+</settings>
+</state>
+</states>
+</component>
+</project>
+

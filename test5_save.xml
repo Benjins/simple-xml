@@ -1,0 +1,613 @@
+<project version='4'>
+<component name='ChangeListManager'>
+<list comment='' name='Default' id='ae241df2-0eeb-4db1-bb4c-d59e75f1db6b' default='true'/>
+<ignored path='OOD_PS07.iws'/>
+<ignored path='.idea/workspace.xml'/>
+<option value='true' name='TRACKING_ENABLED'/>
+<option value='false' name='SHOW_DIALOG'/>
+<option value='true' name='HIGHLIGHT_CONFLICTS'/>
+<option value='false' name='HIGHLIGHT_NON_ACTIVE_CHANGELIST'/>
+<option value='IGNORE' name='LAST_RESOLUTION'/>
+</component>
+<component show_ignored='false' flattened_view='true' name='ChangesViewManager'/>
+<component name='CreatePatchCommitExecutor'>
+<option value='' name='PATCH_PATH'/>
+</component>
+<component name='DaemonCodeAnalyzer'>
+<disable_hints/>
+</component>
+<component SELECTED_TARGET='default_target' name='ExecutionTargetManager'/>
+<component name='FavoritesManager'>
+<favorites_list name='OOD_PS07'/>
+</component>
+<component name='FileEditorManager'>
+<leaf>
+<file current-in-tab='false' current='false' pinned='false' leaf-file-name='RasterApplication.java'>
+<entry file='file://$PROJECT_DIR$/src/RasterApplication.java'>
+<provider editor-type-id='text-editor' selected='true'>
+<state max-vertical-offset='1071' vertical-offset='342' vertical-scroll-proportion='0.0'>
+<caret selection-end-column='36' selection-end-line='50' selection-start-column='36' selection-start-line='50' column='36' line='50'/>
+<folding/>
+</state>
+</provider>
+</entry>
+</file>
+<file current-in-tab='false' current='false' pinned='false' leaf-file-name='ArrayRaster.java'>
+<entry file='file://$PROJECT_DIR$/src/ArrayRaster.java'>
+<provider editor-type-id='text-editor' selected='true'>
+<state max-vertical-offset='1751' vertical-offset='696' vertical-scroll-proportion='0.0'>
+<caret selection-end-column='0' selection-end-line='88' selection-start-column='0' selection-start-line='88' column='0' line='88'/>
+<folding/>
+</state>
+</provider>
+</entry>
+</file>
+<file current-in-tab='false' current='false' pinned='false' leaf-file-name='MyDemo.java'>
+<entry file='file://$PROJECT_DIR$/src/MyDemo.java'>
+<provider editor-type-id='text-editor' selected='true'>
+<state max-vertical-offset='187' vertical-offset='0' vertical-scroll-proportion='0.0'>
+<caret selection-end-column='19' selection-end-line='3' selection-start-column='19' selection-start-line='3' column='19' line='3'/>
+<folding/>
+</state>
+</provider>
+</entry>
+</file>
+<file current-in-tab='false' current='false' pinned='false' leaf-file-name='CirclesDemo.java'>
+<entry file='file://$PROJECT_DIR$/src/CirclesDemo.java'>
+<provider editor-type-id='text-editor' selected='true'>
+<state max-vertical-offset='782' vertical-offset='51' vertical-scroll-proportion='0.0'>
+<caret selection-end-column='95' selection-end-line='22' selection-start-column='11' selection-start-line='21' column='95' line='22'/>
+<folding/>
+</state>
+</provider>
+</entry>
+</file>
+<file current-in-tab='true' current='true' pinned='false' leaf-file-name='Sampleables.java'>
+<entry file='file://$PROJECT_DIR$/src/Sampleables.java'>
+<provider editor-type-id='text-editor' selected='true'>
+<state max-vertical-offset='2856' vertical-offset='2260' vertical-scroll-proportion='-0.6828859'>
+<caret selection-end-column='28' selection-end-line='109' selection-start-column='28' selection-start-line='109' column='28' line='109'/>
+<folding>
+<element expanded='true' signature='e#2918#2919#0'/>
+<element expanded='true' signature='e#2996#2997#0'/>
+<element expanded='true' signature='e#3836#3837#0'/>
+<element expanded='true' signature='e#3910#3911#0'/>
+<element expanded='true' signature='e#4827#4828#0'/>
+<element expanded='true' signature='e#4894#4895#0'/>
+</folding>
+</state>
+</provider>
+</entry>
+</file>
+<file current-in-tab='false' current='false' pinned='false' leaf-file-name='Color.java'>
+<entry file='file://$PROJECT_DIR$/src/Color.java'>
+<provider editor-type-id='text-editor' selected='true'>
+<state max-vertical-offset='2924' vertical-offset='2328' vertical-scroll-proportion='0.0'>
+<caret selection-end-column='8' selection-end-line='121' selection-start-column='8' selection-start-line='121' column='8' line='121'/>
+<folding/>
+</state>
+</provider>
+</entry>
+</file>
+<file current-in-tab='false' current='false' pinned='false' leaf-file-name='Sampleable.java'>
+<entry file='file://$PROJECT_DIR$/src/Sampleable.java'>
+<provider editor-type-id='text-editor' selected='true'>
+<state max-vertical-offset='323' vertical-offset='0' vertical-scroll-proportion='0.0'>
+<caret selection-end-column='27' selection-end-line='4' selection-start-column='17' selection-start-line='4' column='23' line='4'/>
+<folding/>
+</state>
+</provider>
+</entry>
+</file>
+<file current-in-tab='false' current='false' pinned='false' leaf-file-name='SampleablesTest.java'>
+<entry file='file://$PROJECT_DIR$/src/SampleablesTest.java'>
+<provider editor-type-id='text-editor' selected='true'>
+<state max-vertical-offset='799' vertical-offset='0' vertical-scroll-proportion='0.0'>
+<caret selection-end-column='64' selection-end-line='35' selection-start-column='64' selection-start-line='35' column='64' line='35'/>
+<folding/>
+</state>
+</provider>
+</entry>
+</file>
+<file current-in-tab='false' current='false' pinned='false' leaf-file-name='Sampler.java'>
+<entry file='file://$PROJECT_DIR$/src/Sampler.java'>
+<provider editor-type-id='text-editor' selected='true'>
+<state max-vertical-offset='391' vertical-offset='0' vertical-scroll-proportion='0.0'>
+<caret selection-end-column='17' selection-end-line='4' selection-start-column='17' selection-start-line='4' column='17' line='4'/>
+<folding/>
+</state>
+</provider>
+</entry>
+</file>
+<file current-in-tab='false' current='false' pinned='false' leaf-file-name='SimpleSampler.java'>
+<entry file='file://$PROJECT_DIR$/src/SimpleSampler.java'>
+<provider editor-type-id='text-editor' selected='true'>
+<state max-vertical-offset='408' vertical-offset='0' vertical-scroll-proportion='0.0'>
+<caret selection-end-column='13' selection-end-line='4' selection-start-column='13' selection-start-line='4' column='13' line='4'/>
+<folding/>
+</state>
+</provider>
+</entry>
+</file>
+</leaf>
+</component>
+<component name='FindManager'>
+<FindUsagesManager>
+<setting value='true' name='OPEN_NEW_TAB'/>
+</FindUsagesManager>
+</component>
+<component name='IdeDocumentHistory'>
+<option name='changedFiles'>
+<list>
+<option value='$PROJECT_DIR$/src/ArrayRasterTest.java'/>
+<option value='$PROJECT_DIR$/src/RasterApplication.java'/>
+<option value='$PROJECT_DIR$/src/CirclesDemo.java'/>
+<option value='$PROJECT_DIR$/src/ArrayRaster.java'/>
+<option value='$PROJECT_DIR$/src/SampleablesTest.java'/>
+<option value='$PROJECT_DIR$/src/Sampleables.java'/>
+</list>
+</option>
+</component>
+<component name='ProjectFrameBounds'>
+<option value='-9' name='x'/>
+<option value='-9' name='y'/>
+<option value='1938' name='width'/>
+<option value='1050' name='height'/>
+</component>
+<component settingsEditedManually='false' name='ProjectLevelVcsManager'>
+<OptionsSetting id='Add' value='true'/>
+<OptionsSetting id='Remove' value='true'/>
+<OptionsSetting id='Checkout' value='true'/>
+<OptionsSetting id='Update' value='true'/>
+<OptionsSetting id='Status' value='true'/>
+<OptionsSetting id='Edit' value='true'/>
+<OptionsSetting id='Undo Check Out' value='true'/>
+<OptionsSetting id='Get Latest Version' value='true'/>
+<ConfirmationsSetting id='Add' value='0'/>
+<ConfirmationsSetting id='Remove' value='0'/>
+</component>
+<component name='ProjectReloadState'>
+<option value='0' name='STATE'/>
+</component>
+<component name='ProjectView'>
+<navigator version='1' proportions='' currentView='ProjectPane'>
+<flattenPackages/>
+<showMembers/>
+<showModules/>
+<showLibraryContents/>
+<hideEmptyPackages/>
+<abbreviatePackageNames/>
+<autoscrollToSource/>
+<autoscrollFromSource/>
+<sortByType/>
+</navigator>
+<panes>
+<pane id='Scope'/>
+<pane id='PackagesPane'/>
+<pane id='ProjectPane'>
+<subPane>
+<PATH>
+<PATH_ELEMENT>
+<option value='OOD_PS07' name='myItemId'/>
+<option value='com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode' name='myItemType'/>
+</PATH_ELEMENT>
+</PATH>
+<PATH>
+<PATH_ELEMENT>
+<option value='OOD_PS07' name='myItemId'/>
+<option value='com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode' name='myItemType'/>
+</PATH_ELEMENT>
+<PATH_ELEMENT>
+<option value='OOD_PS07' name='myItemId'/>
+<option value='com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode' name='myItemType'/>
+</PATH_ELEMENT>
+</PATH>
+<PATH>
+<PATH_ELEMENT>
+<option value='OOD_PS07' name='myItemId'/>
+<option value='com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode' name='myItemType'/>
+</PATH_ELEMENT>
+<PATH_ELEMENT>
+<option value='OOD_PS07' name='myItemId'/>
+<option value='com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode' name='myItemType'/>
+</PATH_ELEMENT>
+<PATH_ELEMENT>
+<option value='src' name='myItemId'/>
+<option value='com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode' name='myItemType'/>
+</PATH_ELEMENT>
+</PATH>
+</subPane>
+</pane>
+</panes>
+</component>
+<component name='PropertiesComponent'>
+<property value='false' name='GoToClass.includeLibraries'/>
+<property value='false' name='GoToClass.toSaveIncludeLibraries'/>
+<property value='false' name='GoToFile.includeJavaFiles'/>
+<property value='false' name='MemberChooser.sorted'/>
+<property value='true' name='MemberChooser.showClasses'/>
+<property value='false' name='MemberChooser.copyJavadoc'/>
+<property value='reference.projectsettings.compiler.javacompiler' name='options.lastSelected'/>
+<property value='0.3' name='options.splitter.main.proportions'/>
+<property value='0.2' name='options.splitter.details.proportions'/>
+<property value='true' name='options.searchVisible'/>
+<property value='Libraries' name='project.structure.last.edited'/>
+<property value='0.15' name='project.structure.proportion'/>
+<property value='0.2' name='project.structure.side.proportion'/>
+<property value='$PROJECT_DIR$/pset07.jar!/' name='last_opened_file_path'/>
+<property value='true' name='OverrideImplement.combined'/>
+<property value='false' name='OverrideImplement.overriding.sorted'/>
+<property value='JUnit4' name='com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary'/>
+<property value='false' name='com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers'/>
+<property value='5' name='recentsLimit'/>
+<property value='false' name='dynamic.classpath'/>
+<property value='true' name='restartRequiresConfirmation'/>
+</component>
+<component name='RecentsManager'>
+<key name='CreateTestDialog.Recents.Supers'>
+<recent name=''/>
+</key>
+<key name='CreateTestDialog.RecentsKey'>
+<recent name=''/>
+</key>
+</component>
+<component selected='JUnit.All in OOD_PS07' name='RunManager'>
+<configuration nameIsGenerated='true' temporary='true' factoryName='JUnit' type='JUnit' name='ArrayRasterTest' default='false'>
+<module name='OOD_PS07'/>
+<option value='false' name='ALTERNATIVE_JRE_PATH_ENABLED'/>
+<option value='' name='ALTERNATIVE_JRE_PATH'/>
+<option value='' name='PACKAGE_NAME'/>
+<option value='ArrayRasterTest' name='MAIN_CLASS_NAME'/>
+<option value='' name='METHOD_NAME'/>
+<option value='class' name='TEST_OBJECT'/>
+<option value='-ea' name='VM_PARAMETERS'/>
+<option value='' name='PARAMETERS'/>
+<option value='file://$PROJECT_DIR$' name='WORKING_DIRECTORY'/>
+<option name='ENV_VARIABLES'/>
+<option value='true' name='PASS_PARENT_ENVS'/>
+<option name='TEST_SEARCH_SCOPE'>
+<value defaultName='moduleWithDependencies'/>
+</option>
+<envs/>
+<patterns/>
+<RunnerSettings RunnerId='Run'/>
+<ConfigurationWrapper RunnerId='Run'/>
+<method/>
+</configuration>
+<configuration nameIsGenerated='true' temporary='true' factoryName='Application' type='Application' name='CirclesDemo' default='false'>
+<option value='CirclesDemo' name='MAIN_CLASS_NAME'/>
+<option value='' name='VM_PARAMETERS'/>
+<option value='' name='PROGRAM_PARAMETERS'/>
+<option value='file://$PROJECT_DIR$' name='WORKING_DIRECTORY'/>
+<option value='false' name='ALTERNATIVE_JRE_PATH_ENABLED'/>
+<option value='' name='ALTERNATIVE_JRE_PATH'/>
+<option value='false' name='ENABLE_SWING_INSPECTOR'/>
+<option name='ENV_VARIABLES'/>
+<option value='true' name='PASS_PARENT_ENVS'/>
+<module name='OOD_PS07'/>
+<envs/>
+<RunnerSettings RunnerId='Run'/>
+<ConfigurationWrapper RunnerId='Run'/>
+<method/>
+</configuration>
+<configuration nameIsGenerated='true' temporary='true' factoryName='JUnit' type='JUnit' name='SampleablesTest' default='false'>
+<module name='OOD_PS07'/>
+<option value='false' name='ALTERNATIVE_JRE_PATH_ENABLED'/>
+<option name='ALTERNATIVE_JRE_PATH'/>
+<option value='' name='PACKAGE_NAME'/>
+<option value='SampleablesTest' name='MAIN_CLASS_NAME'/>
+<option name='METHOD_NAME'/>
+<option value='class' name='TEST_OBJECT'/>
+<option value='-ea' name='VM_PARAMETERS'/>
+<option name='PARAMETERS'/>
+<option value='$PROJECT_DIR$' name='WORKING_DIRECTORY'/>
+<option name='ENV_VARIABLES'/>
+<option value='true' name='PASS_PARENT_ENVS'/>
+<option name='TEST_SEARCH_SCOPE'>
+<value defaultName='moduleWithDependencies'/>
+</option>
+<envs/>
+<patterns/>
+<RunnerSettings RunnerId='Run'/>
+<ConfigurationWrapper RunnerId='Run'/>
+<method/>
+</configuration>
+<configuration nameIsGenerated='true' temporary='true' factoryName='JUnit' type='JUnit' name='All in OOD_PS07' default='false'>
+<module name='OOD_PS07'/>
+<option value='false' name='ALTERNATIVE_JRE_PATH_ENABLED'/>
+<option name='ALTERNATIVE_JRE_PATH'/>
+<option value='' name='PACKAGE_NAME'/>
+<option name='MAIN_CLASS_NAME'/>
+<option name='METHOD_NAME'/>
+<option value='package' name='TEST_OBJECT'/>
+<option value='-ea' name='VM_PARAMETERS'/>
+<option name='PARAMETERS'/>
+<option value='$PROJECT_DIR$' name='WORKING_DIRECTORY'/>
+<option name='ENV_VARIABLES'/>
+<option value='true' name='PASS_PARENT_ENVS'/>
+<option name='TEST_SEARCH_SCOPE'>
+<value defaultName='moduleWithDependencies'/>
+</option>
+<envs/>
+<patterns/>
+<RunnerSettings RunnerId='Run'/>
+<ConfigurationWrapper RunnerId='Run'/>
+<method/>
+</configuration>
+<configuration factoryName='Remote' type='Remote' default='true'>
+<option value='true' name='USE_SOCKET_TRANSPORT'/>
+<option value='false' name='SERVER_MODE'/>
+<option value='javadebug' name='SHMEM_ADDRESS'/>
+<option value='localhost' name='HOST'/>
+<option value='5005' name='PORT'/>
+<method/>
+</configuration>
+<configuration factoryName='Applet' type='Applet' default='true'>
+<module name=''/>
+<option name='MAIN_CLASS_NAME'/>
+<option name='HTML_FILE_NAME'/>
+<option value='false' name='HTML_USED'/>
+<option value='400' name='WIDTH'/>
+<option value='300' name='HEIGHT'/>
+<option value='$APPLICATION_HOME_DIR$/bin/appletviewer.policy' name='POLICY_FILE'/>
+<option name='VM_PARAMETERS'/>
+<option value='false' name='ALTERNATIVE_JRE_PATH_ENABLED'/>
+<option name='ALTERNATIVE_JRE_PATH'/>
+<method/>
+</configuration>
+<configuration factoryName='Application' type='Application' default='true'>
+<option value='CirclesDemo' name='MAIN_CLASS_NAME'/>
+<option value='' name='VM_PARAMETERS'/>
+<option value='' name='PROGRAM_PARAMETERS'/>
+<option value='file://$PROJECT_DIR$' name='WORKING_DIRECTORY'/>
+<option value='false' name='ALTERNATIVE_JRE_PATH_ENABLED'/>
+<option value='' name='ALTERNATIVE_JRE_PATH'/>
+<option value='false' name='ENABLE_SWING_INSPECTOR'/>
+<option name='ENV_VARIABLES'/>
+<option value='true' name='PASS_PARENT_ENVS'/>
+<module name=''/>
+<envs/>
+<method/>
+</configuration>
+<configuration factoryName='JUnit' type='JUnit' default='true'>
+<module name=''/>
+<option value='false' name='ALTERNATIVE_JRE_PATH_ENABLED'/>
+<option name='ALTERNATIVE_JRE_PATH'/>
+<option name='PACKAGE_NAME'/>
+<option name='MAIN_CLASS_NAME'/>
+<option name='METHOD_NAME'/>
+<option value='class' name='TEST_OBJECT'/>
+<option value='-ea' name='VM_PARAMETERS'/>
+<option name='PARAMETERS'/>
+<option value='$PROJECT_DIR$' name='WORKING_DIRECTORY'/>
+<option name='ENV_VARIABLES'/>
+<option value='true' name='PASS_PARENT_ENVS'/>
+<option name='TEST_SEARCH_SCOPE'>
+<value defaultName='moduleWithDependencies'/>
+</option>
+<envs/>
+<patterns/>
+<method/>
+</configuration>
+<list size='4'>
+<item itemvalue='JUnit.ArrayRasterTest' class='java.lang.String' index='0'/>
+<item itemvalue='Application.CirclesDemo' class='java.lang.String' index='1'/>
+<item itemvalue='JUnit.SampleablesTest' class='java.lang.String' index='2'/>
+<item itemvalue='JUnit.All in OOD_PS07' class='java.lang.String' index='3'/>
+</list>
+<recent_temporary>
+<list size='4'>
+<item itemvalue='JUnit.All in OOD_PS07' class='java.lang.String' index='0'/>
+<item itemvalue='JUnit.SampleablesTest' class='java.lang.String' index='1'/>
+<item itemvalue='Application.CirclesDemo' class='java.lang.String' index='2'/>
+<item itemvalue='JUnit.ArrayRasterTest' class='java.lang.String' index='3'/>
+</list>
+</recent_temporary>
+<configuration selected='false' default='true' type='TestNG' name='&lt;template&gt;'>
+<option name='MAIN_CLASS_NAME'/>
+<option value='-ea' name='VM_PARAMETERS'/>
+<option name='PARAMETERS'/>
+<option value='$PROJECT_DIR$' name='WORKING_DIRECTORY'/>
+</configuration>
+<configuration selected='false' default='true' type='#org.jetbrains.idea.devkit.run.PluginConfigurationType' name='&lt;template&gt;'>
+<option value='-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea' name='VM_PARAMETERS'/>
+</configuration>
+<configuration selected='false' default='true' type='WebApp' name='&lt;template&gt;'/>
+</component>
+<component show_recycled='false' name='ShelveChangesManager'/>
+<component name='ToolWindowManager'>
+<frame extended-state='6' height='1050' width='1938' y='-9' x='-9'/>
+<editor active='true'/>
+<layout>
+<window_info content_ui='tabs' side_tool='false' order='-1' sideWeight='0.5' weight='0.33' visible='false' type='DOCKED' internal_type='DOCKED' auto_hide='false' anchor='bottom' active='false' id='Changes'/>
+<window_info content_ui='tabs' side_tool='false' order='-1' sideWeight='0.5' weight='0.33' visible='false' type='DOCKED' internal_type='DOCKED' auto_hide='false' anchor='right' active='false' id='Palette'/>
+<window_info content_ui='tabs' side_tool='false' order='1' sideWeight='0.5' weight='0.32938644' visible='false' type='DOCKED' internal_type='DOCKED' auto_hide='false' anchor='bottom' active='false' id='Find'/>
+<window_info content_ui='tabs' side_tool='false' order='3' sideWeight='0.5' weight='0.4' visible='false' type='DOCKED' internal_type='DOCKED' auto_hide='false' anchor='bottom' active='false' id='Debug'/>
+<window_info content_ui='tabs' side_tool='true' order='-1' sideWeight='0.5' weight='0.2981701' visible='false' type='DOCKED' internal_type='DOCKED' auto_hide='false' anchor='bottom' active='false' id='Event Log'/>
+<window_info content_ui='tabs' side_tool='true' order='-1' sideWeight='0.5' weight='0.33' visible='false' type='DOCKED' internal_type='DOCKED' auto_hide='false' anchor='left' active='false' id='Favorites'/>
+<window_info content_ui='tabs' side_tool='false' order='-1' sideWeight='0.5' weight='0.33' visible='false' type='DOCKED' internal_type='DOCKED' auto_hide='false' anchor='bottom' active='false' id='Version Control'/>
+<window_info content_ui='tabs' side_tool='false' order='-1' sideWeight='0.5' weight='0.33' visible='false' type='DOCKED' internal_type='DOCKED' auto_hide='false' anchor='bottom' active='false' id='Messages'/>
+<window_info content_ui='tabs' side_tool='false' order='6' sideWeight='0.5' weight='0.33' visible='false' type='DOCKED' internal_type='DOCKED' auto_hide='false' anchor='bottom' active='false' id='TODO'/>
+<window_info content_ui='tabs' side_tool='false' order='1' sideWeight='0.5' weight='0.25' visible='false' type='DOCKED' internal_type='DOCKED' auto_hide='false' anchor='left' active='false' id='Structure'/>
+<window_info content_ui='tabs' side_tool='false' order='-1' sideWeight='0.5' weight='0.33' visible='false' type='DOCKED' internal_type='DOCKED' auto_hide='false' anchor='bottom' active='false' id='Application Servers'/>
+<window_info content_ui='combo' side_tool='false' order='0' sideWeight='0.5' weight='0.25' visible='true' type='DOCKED' internal_type='DOCKED' auto_hide='false' anchor='left' active='false' id='Project'/>
+<window_info content_ui='tabs' side_tool='false' order='2' sideWeight='0.5' weight='0.3035522' visible='true' type='DOCKED' internal_type='DOCKED' auto_hide='false' anchor='bottom' active='false' id='Run'/>
+<window_info content_ui='tabs' side_tool='false' order='4' sideWeight='0.5' weight='0.25' visible='false' type='DOCKED' internal_type='DOCKED' auto_hide='false' anchor='bottom' active='false' id='Cvs'/>
+<window_info content_ui='tabs' side_tool='false' order='0' sideWeight='0.5' weight='0.33' visible='false' type='DOCKED' internal_type='DOCKED' auto_hide='false' anchor='bottom' active='false' id='Message'/>
+<window_info content_ui='tabs' side_tool='false' order='1' sideWeight='0.5' weight='0.25' visible='false' type='DOCKED' internal_type='DOCKED' auto_hide='false' anchor='right' active='false' id='Ant Build'/>
+<window_info content_ui='tabs' side_tool='false' order='0' sideWeight='0.5' weight='0.4' visible='false' type='SLIDING' internal_type='SLIDING' auto_hide='false' anchor='right' active='false' id='Commander'/>
+<window_info content_ui='tabs' side_tool='false' order='5' sideWeight='0.5' weight='0.4' visible='false' type='DOCKED' internal_type='DOCKED' auto_hide='false' anchor='bottom' active='false' id='Inspection'/>
+<window_info content_ui='combo' side_tool='false' order='2' sideWeight='0.5' weight='0.25' visible='false' type='DOCKED' internal_type='DOCKED' auto_hide='false' anchor='right' active='false' id='Hierarchy'/>
+</layout>
+</component>
+<component name='Vcs.Log.UiProperties'>
+<option name='RECENTLY_FILTERED_USER_GROUPS'>
+<collection/>
+</option>
+<option name='RECENTLY_FILTERED_BRANCH_GROUPS'>
+<collection/>
+</option>
+</component>
+<component name='VcsContentAnnotationSettings'>
+<option value='2678400000' name='myLimit'/>
+</component>
+<component name='VcsManagerConfiguration'>
+<option name='myTodoPanelSettings'>
+<TodoPanelSettings/>
+</option>
+</component>
+<component name='XDebuggerManager'>
+<breakpoint-manager>
+<option value='1' name='time'/>
+</breakpoint-manager>
+</component>
+<component name='editorHistoryManager'>
+<entry file='file://$PROJECT_DIR$/src/AbstractRaster.java'>
+<provider editor-type-id='text-editor' selected='true'>
+<state max-vertical-offset='1139' vertical-offset='34' vertical-scroll-proportion='0.0'>
+<caret selection-end-column='22' selection-end-line='10' selection-start-column='22' selection-start-line='10' column='22' line='10'/>
+<folding/>
+</state>
+</provider>
+</entry>
+<entry file='file://$PROJECT_DIR$/src/ListRaster.java'>
+<provider editor-type-id='text-editor' selected='true'>
+<state max-vertical-offset='1309' vertical-offset='459' vertical-scroll-proportion='0.0'>
+<caret selection-end-column='33' selection-end-line='44' selection-start-column='33' selection-start-line='44' column='33' line='44'/>
+<folding/>
+</state>
+</provider>
+</entry>
+<entry file='file://$PROJECT_DIR$/src/ArrayRasterTest.java'>
+<provider editor-type-id='text-editor' selected='true'>
+<state max-vertical-offset='1870' vertical-offset='1110' vertical-scroll-proportion='0.0'>
+<caret selection-end-column='9' selection-end-line='89' selection-start-column='9' selection-start-line='89' column='9' line='89'/>
+<folding>
+<element expanded='true' signature='imports'/>
+<element expanded='true' signature='e#272#273#0'/>
+<element expanded='true' signature='e#326#327#0'/>
+<element expanded='true' signature='e#449#450#0'/>
+<element expanded='true' signature='e#503#504#0'/>
+<element expanded='true' signature='e#626#627#0'/>
+<element expanded='true' signature='e#692#693#0'/>
+<element expanded='true' signature='e#815#816#0'/>
+<element expanded='true' signature='e#881#882#0'/>
+</folding>
+</state>
+</provider>
+</entry>
+<entry file='file://$PROJECT_DIR$/src/Raster.java'>
+<provider editor-type-id='text-editor' selected='true'>
+<state max-vertical-offset='1156' vertical-offset='255' vertical-scroll-proportion='0.0'>
+<caret selection-end-column='3' selection-end-line='61' selection-start-column='2' selection-start-line='55' column='2' line='55'/>
+<folding/>
+</state>
+</provider>
+</entry>
+<entry file='file://$PROJECT_DIR$/src/SimpleSampler.java'>
+<provider editor-type-id='text-editor' selected='true'>
+<state max-vertical-offset='408' vertical-offset='0' vertical-scroll-proportion='0.0'>
+<caret selection-end-column='13' selection-end-line='4' selection-start-column='13' selection-start-line='4' column='13' line='4'/>
+<folding/>
+</state>
+</provider>
+</entry>
+<entry file='file://$PROJECT_DIR$/src/Color.java'>
+<provider editor-type-id='text-editor' selected='true'>
+<state max-vertical-offset='2924' vertical-offset='2328' vertical-scroll-proportion='0.0'>
+<caret selection-end-column='8' selection-end-line='121' selection-start-column='8' selection-start-line='121' column='8' line='121'/>
+<folding/>
+</state>
+</provider>
+</entry>
+<entry file='file://$PROJECT_DIR$/src/MyDemo.java'>
+<provider editor-type-id='text-editor' selected='true'>
+<state max-vertical-offset='187' vertical-offset='0' vertical-scroll-proportion='0.0'>
+<caret selection-end-column='19' selection-end-line='3' selection-start-column='19' selection-start-line='3' column='19' line='3'/>
+<folding/>
+</state>
+</provider>
+</entry>
+<entry file='file://$PROJECT_DIR$/src/Sampler.java'>
+<provider editor-type-id='text-editor' selected='true'>
+<state max-vertical-offset='391' vertical-offset='0' vertical-scroll-proportion='0.0'>
+<caret selection-end-column='17' selection-end-line='4' selection-start-column='17' selection-start-line='4' column='17' line='4'/>
+<folding/>
+</state>
+</provider>
+</entry>
+<entry file='file://$PROJECT_DIR$/src/CirclesDemo.java'>
+<provider editor-type-id='text-editor' selected='true'>
+<state max-vertical-offset='782' vertical-offset='51' vertical-scroll-proportion='0.0'>
+<caret selection-end-column='95' selection-end-line='22' selection-start-column='11' selection-start-line='21' column='95' line='22'/>
+<folding/>
+</state>
+</provider>
+</entry>
+<entry file='file://$PROJECT_DIR$/src/RasterApplication.java'>
+<provider editor-type-id='text-editor' selected='true'>
+<state max-vertical-offset='1071' vertical-offset='408' vertical-scroll-proportion='0.0'>
+<caret selection-end-column='36' selection-end-line='50' selection-start-column='36' selection-start-line='50' column='36' line='50'/>
+<folding/>
+</state>
+</provider>
+</entry>
+<entry file='file://$PROJECT_DIR$/src/ArrayRaster.java'>
+<provider editor-type-id='text-editor' selected='true'>
+<state max-vertical-offset='1751' vertical-offset='696' vertical-scroll-proportion='0.0'>
+<caret selection-end-column='0' selection-end-line='88' selection-start-column='0' selection-start-line='88' column='0' line='88'/>
+<folding/>
+</state>
+</provider>
+</entry>
+<entry file='file://$PROJECT_DIR$/src/SampleablesTest.java'>
+<provider editor-type-id='text-editor' selected='true'>
+<state max-vertical-offset='799' vertical-offset='0' vertical-scroll-proportion='0.0'>
+<caret selection-end-column='64' selection-end-line='35' selection-start-column='64' selection-start-line='35' column='64' line='35'/>
+<folding/>
+</state>
+</provider>
+</entry>
+<entry file='file://$PROJECT_DIR$/src/Sampleable.java'>
+<provider editor-type-id='text-editor' selected='true'>
+<state max-vertical-offset='323' vertical-offset='0' vertical-scroll-proportion='0.0'>
+<caret selection-end-column='27' selection-end-line='4' selection-start-column='17' selection-start-line='4' column='23' line='4'/>
+<folding/>
+</state>
+</provider>
+</entry>
+<entry file='file://$PROJECT_DIR$/src/Sampleables.java'>
+<provider editor-type-id='text-editor' selected='true'>
+<state max-vertical-offset='2856' vertical-offset='2260' vertical-scroll-proportion='-0.6828859'>
+<caret selection-end-column='28' selection-end-line='109' selection-start-column='28' selection-start-line='109' column='28' line='109'/>
+<folding>
+<element expanded='true' signature='e#2918#2919#0'/>
+<element expanded='true' signature='e#2996#2997#0'/>
+<element expanded='true' signature='e#3836#3837#0'/>
+<element expanded='true' signature='e#3910#3911#0'/>
+<element expanded='true' signature='e#4827#4828#0'/>
+<element expanded='true' signature='e#4894#4895#0'/>
+</folding>
+</state>
+</provider>
+</entry>
+</component>
+<component name='masterDetails'>
+<states>
+<state key='ProjectLibrariesConfigurable.UI'>
+<settings>
+<last-edited>
+<plaintext val='pset07'/>
+</last-edited>
+<splitter-proportions>
+<option name='proportions'>
+<list>
+<option value='0.2'/>
+</list>
+</option>
+</splitter-proportions>
+</settings>
+</state>
+</states>
+</component>
+</project>

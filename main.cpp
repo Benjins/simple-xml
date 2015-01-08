@@ -6,7 +6,7 @@
 using std::string; using std::vector; using std::ifstream;
 using std::cout; using std::endl; using std::ofstream;
 
-#define MAX_STACK_SIZE 2048
+#define MAX_STACK_SIZE 8192
 
 template<typename T>
 struct Stack{
@@ -106,7 +106,7 @@ XMLDocument ParseTokens(vector<string> tokens);
 void SaveXMLDoc(XMLDocument& doc, string fileName);
 
 int main(){
-	string fileName = "test3.xml";
+	string fileName = "test5.xml";
 	ifstream file;
 	string fileContents;
 
@@ -123,25 +123,12 @@ int main(){
 		fileContents = fileContents + line + "\n";
 	}
 
-	//cout << "File Contents: \n" << fileContents << endl;
-	//return 0;
-
 	vector<string> tokens = Tokenize(fileContents);
-
-	/*
-	for(auto iter = tokens.begin(); iter != tokens.end(); iter++){
-		cout << "|" << (*iter) << "|\n";
-	}
-	*/
-
-	cout << "About to parse" << endl;
 	XMLDocument doc = ParseTokens(tokens);
 
-	cout << "Parsed" << endl;
+	//doc.Print();
 
-	doc.Print();
-
-	SaveXMLDoc(doc, "test3_save.xml");
+	SaveXMLDoc(doc, "test5_save.xml");
 
 	return 0;
 }
@@ -154,22 +141,20 @@ vector<string> Tokenize(const string& document){
 	for(int i = 0; i < document.size(); i++){
 		char character = document[i];
 
-		if(character == '<' || character == '>' || character == '/' || character == '='){
-			if(inString){
-				memoryString += character;
-			}
-			else{
-				if(memoryString != ""){
-					tokens.push_back(memoryString);
-					memoryString = "";
-				}
-				string str = "-";
-				str[0] = character;
-				tokens.push_back(str);
-			}
+		if(inString && character != '\''  && character != '"'){
+			memoryString += character;
 		}
-		else if(character == '\''){
+		else if(character == '<' || character == '>' || character == '/' || character == '='){
 			if(memoryString != ""){
+				tokens.push_back(memoryString);
+				memoryString = "";
+			}
+			string str = "-";
+			str[0] = character;
+			tokens.push_back(str);
+		}
+		else if(character == '\'' || character == '"'){
+			if(memoryString != "" || inString){
 				tokens.push_back(memoryString);
 				memoryString = "";
 			}
@@ -201,7 +186,7 @@ XMLDocument ParseTokens(vector<string> tokens){
 
 	for(auto iter = tokens.begin(); iter != tokens.end(); iter++){
 		string token = *iter;
-		//cout << "Parsing token: " << token << endl;
+		//cout << "Parsing token: |" << token << "|" << endl;
 		if(token == "<"){
 			tokenStack.Push(token);
 		}
@@ -233,17 +218,20 @@ XMLDocument ParseTokens(vector<string> tokens){
 			string currToken = tokenStack.Pop();
 			XMLAttribute attr;
 			attr.data = attr.name = "";
+			bool gotData = false;
 			while(currToken != "<"){
 				if(currToken == "="){
 					//do nothing
 				}
-				else if(attr.data == ""){
+				else if(!gotData){
 					attr.data = currToken;
+					gotData = true;
 				}
 				else{
 					attr.name = currToken;
 					elementStack.Top().attributes.push_back(attr);
 					attr.data = attr.name = "";
+					gotData = false;
 				}
 				currToken = tokenStack.Pop();
 			}
@@ -286,6 +274,7 @@ void SaveXMLDoc(XMLDocument& doc, string fileName){
 
 	for(auto iter = doc.contents.begin(); iter != doc.contents.end(); iter++){
 		docContents += iter->SaveElement();
+		docContents += "\n";
 	}
 
 	fileOut << docContents;

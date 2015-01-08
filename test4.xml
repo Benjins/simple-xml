@@ -1,12 +1,23 @@
-<document>
-	<thing attr='1'/>
-	<nest attr2='2'>
-		<god life='true'>
-			<satan attr3='no'/>
-			<devil cause='just'>
-				<demon name='Hi'/>
-				<demon name='Hi2'/>
-			</devil>
-		</god>
-	</nest>
-</document>
+<project version="4">
+<component name="XDebuggerManager">
+<breakpoint-manager>
+<option name="time" value="1" />
+</breakpoint-manager>
+</component>
+<component name="masterDetails">
+<states>
+<state key="ProjectLibrariesConfigurable.UI">
+<settings>
+<splitter-proportions>
+<option name="proportions">
+<list>
+<option value="0.2" />
+</list>
+</option>
+</splitter-proportions>
+</settings>
+</state>
+</states>
+</component>
+</project>
+
