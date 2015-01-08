@@ -1,0 +1,12 @@
+<document>
+	<thing attr='1'/>
+	<nest attr2='2'>
+		<god life='true'>
+			<satan attr3='no'/>
+			<devil cause='just'>
+				<demon name='Hi'/>
+				<demon name='Hi2'/>
+			</devil>
+		</god>
+	</nest>
+</document>

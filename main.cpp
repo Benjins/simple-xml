@@ -4,7 +4,7 @@
 #include <iostream>
 
 using std::string; using std::vector; using std::ifstream;
-using std::cout; using std::endl;
+using std::cout; using std::endl; using std::ofstream;
 
 #define MAX_STACK_SIZE 2048
 
@@ -39,6 +39,10 @@ struct XMLAttribute{
 	void Print() const{
 		cout << name << ":" << data;
 	}
+
+	string ToString(){
+		return name + "='" + data + "'";
+	}
 };
 
 struct XMLElement{
@@ -55,6 +59,29 @@ struct XMLElement{
 		for(auto iter = children.begin(); iter != children.end(); iter++){
 			cout << endl;
 			iter->Print();
+		}
+	}
+
+	string SaveElement(){
+		string save = "<" + name;
+		for(auto iter = attributes.begin(); iter != attributes.end(); iter++){
+			save = save + " " + iter->ToString(); 
+		}
+
+		if(children.size() == 0){
+			save += "/>";
+			return save;
+		}
+		else{
+			save += ">\n";
+			
+			for(auto iter = children.begin(); iter != children.end(); iter++){
+				save += iter->SaveElement();
+				save += "\n";
+			}
+
+			save = save + "</" + name + ">";
+			return save;
 		}
 	}
 };
@@ -76,8 +103,10 @@ vector<string> Tokenize(const string& document);
 
 XMLDocument ParseTokens(vector<string> tokens);
 
+void SaveXMLDoc(XMLDocument& doc, string fileName);
+
 int main(){
-	string fileName = "test.xml";
+	string fileName = "test3.xml";
 	ifstream file;
 	string fileContents;
 
@@ -111,6 +140,8 @@ int main(){
 	cout << "Parsed" << endl;
 
 	doc.Print();
+
+	SaveXMLDoc(doc, "test3_save.xml");
 
 	return 0;
 }
@@ -240,4 +271,22 @@ XMLDocument ParseTokens(vector<string> tokens){
 	}
 
 	return doc;
+}
+
+void SaveXMLDoc(XMLDocument& doc, string fileName){
+	ofstream fileOut;
+	fileOut.open(fileName.c_str());
+
+	if(!fileOut.good()){
+		cout << "Failed to open file " << fileName << " for saving.\n";
+		return;
+	}
+
+	string docContents = "";
+
+	for(auto iter = doc.contents.begin(); iter != doc.contents.end(); iter++){
+		docContents += iter->SaveElement();
+	}
+
+	fileOut << docContents;
 }

@@ -1,0 +1,13 @@
+<Scene name='my-engine'>
+<Texture source='Test.bmp' name='testTex'/>
+<Material texture='testTex' shader='shader' name='God1'/>
+<Mesh source='Test.obj' name='myMesh'/>
+<GameObject mesh='myMesh' mat='God1'>
+<Transform size='1,1,1' rotation='1,0,0,0' position='0,3,0'/>
+<BoxCollider size='1,0.2,1' position='-3,2.2,1.334'/>
+</GameObject>
+<GameOject mesh='No.jpg' mat='God2'>
+<Transform size='1,1,1' rotation='1,0,0,0' position='0,-3,0'/>
+<BoxCollider size='1,0.0242,1' position='-3,2.2,1.334'/>
+</GameOject>
+</Scene>
